@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pickinstruction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="D:/MapForce/Projects/OWL/xsd/OWL_PickInstruction.xsd">
+	<pickheader>
+		<customerdocumenttype>Web Order</customerdocumenttype>
+		<orderdate>2016-02-04T00:00:00.000</orderdate>
+		<requestedetd>2016-02-04T00:00:00.000</requestedetd>
+		<notes/>
+		<parties>
+			<organisation>0083961</organisation>
+			<channel>004</channel>
+		</parties>
+		<references>
+			<externalreference>WO100004185</externalreference>
+			<customerporeference/>
+			<uniservereference>WCDC70C892</uniservereference>
+		</references>
+		<delivery>
+			<deliveryservice/>
+			<deliverymode/>
+			<tradeterms/>
+			<address>
+				<deliveryparty/>
+				<contactname>Store Jermyn Street</contactname>
+				<contactphonenumber/>
+				<deliveryaddress1>123 Jermyn Street St James</deliveryaddress1>
+				<deliveryaddress2></deliveryaddress2>
+				<deliveryaddress3></deliveryaddress3>
+				<deliveryaddress4/>
+				<deliverycity>London</deliverycity>
+				<deliverycounty></deliverycounty>
+				<deliverypostcode>SW1Y 6LS</deliverypostcode>
+				<deliverycountry>GBR</deliverycountry>
+			</address>
+		</delivery>
+		<customdata>
+			<attribute></attribute>
+			<value>
+				<text></text>
+				<other/>
+			</value>
+		</customdata>
+		<version>
+			<date></date>
+			<statuscode/>
+			<statusname/>
+			<comments/>
+			<reference/>
+			<organisation>0083961</organisation>
+			<user>CBR</user>
+			<message_id>Pick_CC_3155_2016-02-05T060511.667.xml</message_id>
+		</version>
+		<directives>
+			<action>auto</action>
+			<wmsPush>true</wmsPush>
+			<wmsInstance>Tilbury</wmsInstance>
+			<wmsTransactionReference>CC0043155</wmsTransactionReference>
+		</directives>
+	</pickheader>
+	<pickdetail>
+		<linenumber>2</linenumber>
+		<itemsku>5053358205752</itemsku>
+		<skudescription>Linen Multi Colour Floral Print</skudescription>
+		<unitsrequested>1</unitsrequested>
+		<bondstatus></bondstatus>
+		<stockcondition></stockcondition>
+		<variant></variant>
+		<pickuom>
+			<uom>each</uom>
+			<qtyperuom>1</qtyperuom>
+		</pickuom>
+		<interfaces>
+			<po></po>
+			<drop></drop>
+		</interfaces>
+		<customdata>
+			<attribute/>
+			<value>
+				<text/>
+				<other/>
+			</value>
+		</customdata>
+		<directives>
+			<action>auto</action>
+		</directives>
+	</pickdetail>
+</pickinstruction>
